@@ -21,7 +21,7 @@ Este proyecto es una implementación interactiva del juego de la vida de Conway 
 2. Instala las dependencias:
 
 ```bash
-pip install pygame numpy
+pip install pygame-ce numpy
 ```
 
 ## Uso

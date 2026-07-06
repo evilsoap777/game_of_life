@@ -104,7 +104,6 @@ def createLifebyClick(grid):
         grid[fila, columna] = 1
     return
 
-
 def clearGameState():
     global grid, created_cells, dead_cells, playing
 
