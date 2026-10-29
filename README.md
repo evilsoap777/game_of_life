@@ -35,6 +35,8 @@ python juego.py
 ## Controles
 
 - `Clic izquierdo`: coloca una célula viva en la celda seleccionada.
+- `Clic derecho (arrastrar)`: mueve la vista por el mundo.
+- `Rueda del ratón` o `+` / `-`: zoom.
 - `Espacio`: iniciar / pausar la simulación.
 - `Esc`: volver al menú principal o salir desde el menú.
 
